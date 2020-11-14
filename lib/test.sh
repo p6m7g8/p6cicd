@@ -55,7 +55,7 @@ p6_cicd_version_bump() {
 # Function: p6_cicd_tag([file=conf/meta])
 #
 #  Args:
-#	OPTIONAL file -  [conf/meta]
+#	OPTIONAL file - [conf/meta]
 #
 #>
 ######################################################################
