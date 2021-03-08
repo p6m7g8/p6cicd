@@ -38,15 +38,19 @@
 
 - [Change Log](CHANGELOG.md)
 
-### Usage
+## Usage
 
-#### init.zsh:
+### p6cicd:
+
+#### p6cicd/init.zsh:
 
 - p6df::modules::p6cicd::deps()
 - p6df::modules::p6cicd::init()
 - p6df::modules::p6cicd::version()
 
-#### test.sh:
+### ../p6cicd/lib:
+
+#### ../p6cicd/lib/test.sh:
 
 - p6_cicd_install()
 - p6_cicd_release()
