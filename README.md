@@ -48,6 +48,7 @@
 - p6df::modules::p6cicd::init()
 - p6df::modules::p6cicd::version()
 
+
 ### ../p6cicd/lib:
 
 #### ../p6cicd/lib/test.sh:
@@ -60,6 +61,18 @@
 - p6_cicd_version_bump()
 
 
+
+## Hier
+```text
+.
+├── build.sh
+├── commit.sh
+├── deploy.sh
+├── integrate.sh
+└── test.sh
+
+0 directories, 5 files
+```
 ## Author
 
 Philip M . Gollucci <pgollucci@p6m7g8.com>
