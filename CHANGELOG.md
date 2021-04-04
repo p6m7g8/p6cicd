@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.1.1](https://github.com/p6m7g8/p6cicd/compare/v1.1.0...v1.1.1) (2021-04-04)
+
+
+* **README:** updates generator ([#10](https://github.com/p6m7g8/p6cicd/issues/10)) ([0cb325f](https://github.com/p6m7g8/p6cicd/commit/0cb325f94785dcc028abe0e32587fecee6f8a6fd))
+* Coc -> .github ([19a2675](https://github.com/p6m7g8/p6cicd/commit/19a26757458d5befff1e14c585474367569f90b9))
+* the great vscode indent of 2021 ([#11](https://github.com/p6m7g8/p6cicd/issues/11)) ([a2b6a4c](https://github.com/p6m7g8/p6cicd/commit/a2b6a4c54b1f4c96a8ac9204b24ecf490b82f5fd))
+
 ## 1.1.0 (2020-12-06)
 
 
